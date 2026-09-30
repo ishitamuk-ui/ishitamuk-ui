@@ -1,4 +1,4 @@
-# ishita
+
 # Hi there, I'm Ishita 👋
 
 ### 👩‍💻 About Me
