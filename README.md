@@ -5,7 +5,7 @@
 - 🎓 **Student & Developer** passionate about Machine Learning, AI, and Software Engineering.
 - 🚀 Working on **PlantVision** (CV-based plant disease detection).
 - 🛠️ Tech Stack: **Python, C++, PyTorch, Docker, Git, Linux**.
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+- 📬 How to reach me: [LinkedIn](www.linkedin.com/in/ishita-mukhopadhyay)
 
 ---
 
